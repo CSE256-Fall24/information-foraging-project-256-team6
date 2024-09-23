@@ -99,8 +99,20 @@ main li {
     flex-direction: column;
     gap: 2em;
     position: sticky;
-    top: 0;
+    top: 100px;
+    /*SCROLLABLE ASIDE CSS*/
+    /*
+    height: 600px;
+    overflow-y: auto;
+    display: block;
+    */
 }
+
+/*
+.aside {
+    height: 600px;
+    overflow-y: auto;
+}*/
 
 /* Individual staff member layout remains the same */
 .staff-qualifications {
@@ -138,11 +150,15 @@ main li {
 }
 
 .individual-staff-member-inner-div img {
-    float: left;
+    float: center;
     margin-right: 2em;
 }
 
 .individual-staff-member-data {
-    float: left;
+    float: center;
     overflow-wrap: normal;
+}
+
+#teddy-overview {
+    font-size: 20px;
 }
