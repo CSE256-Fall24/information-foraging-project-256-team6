@@ -10,17 +10,45 @@ main li {
 }
 
 .classroom {
-    margin-top: 6em;
+    margin-top: 2em;
     margin-bottom: 1em;
     clear: both;
     overflow: hidden;
+    display: flex; /* Flexbox for side-by-side layout */
+    justify-content: space-between; /* Ensure space between text and image */
+    align-items: flex-start; /* Align text at the top */
+}
+
+.classroom-info {
+    order: 1; /* Text on the left */
+    flex-grow: 1; /* Allows text area to grow */
+    margin-right: 2.5em; /* Space between text and image */
+}
+
+.classroom-info strong {
+    display: block; 
+    margin-bottom: 0.5em; 
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.classroom-info ul {
+    margin: 0; 
+    padding-left: 1.5em; 
 }
 
 .classroom img {
-    float: left;
-    margin-right: 2.5em;
+    float: none;
+    order: 2; 
+    margin-left: 2.5em; 
+}
+.classroom-info a {
+    text-decoration: none; 
+    color: #333; 
+    font-weight: bold; 
 }
 
-.classroom p {
-    font-size: 1.15em;
+.classroom-info a:hover {
+    text-decoration: underline; 
+    color: #007acc; 
 }
