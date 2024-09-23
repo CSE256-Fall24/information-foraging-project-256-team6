@@ -15,6 +15,13 @@ header {
     background-color: #3d3d3d;
 }
 
+#main-menu-container.sticky {
+    position: fixed; /*this*/ /*sticky was not functioning, fixed works very well*/
+    top: 40px; /*this*/
+    z-index: 1001;
+    /*background-color: #ccc;*/
+}
+
 .container {
     width: 92%;
     max-width: 71em;
