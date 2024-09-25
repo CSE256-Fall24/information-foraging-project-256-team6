@@ -1,0 +1,12 @@
+@import url("common.css");
+@import url("side_menu.css");
+
+th {
+  text-align: right; 
+  padding-right: 10px;
+}
+
+table {
+  padding-bottom: 20px;
+  font-size: x-large;
+}
