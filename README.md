@@ -37,3 +37,4 @@ Classrooms Changes:
 - Removed hours of operation- could be confusing to those looking for class schedules and force bad paths
 - Adjusted sidebar on About page
 - Removed sidebar from tuition and parent handbook pages
+- Tuition moved back under About instead of parent resources
