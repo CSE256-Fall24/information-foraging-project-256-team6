@@ -15,7 +15,7 @@ Classrooms Changes:
 - images on all classrooms images will be moved to the Photos page for that specific classroom
 - Class Schedule moved up as I think it's more important and parents would want to see that
 
-9.23 | 3:45p
+9.23 | 3:45p (Luke)
 - Removing past parent reviews from panda bear classroom page
 - Recreated the reviews slideshow in the apply tab
 - On homepage added link to classroom overview with icon to help it stand out
@@ -23,7 +23,7 @@ Classrooms Changes:
 - Goal of above minor changes: make Teddy Bear page the "model" page that once we all agree is designed well we can replicate on all other classroom pages
 - Announcements column on homepage made scrollable with a max height
 
-9.25 | 12:43am
+9.25 | 12:43apm 
 - Created new 'hours of operation' page under 'about'
 - Added as sub-menu item in header modular component
 - Wrote CSS for th and table displaying hours info
@@ -31,3 +31,9 @@ Classrooms Changes:
 - Created new div tag and added ID to it for Spanish section on enrichments program page
 - Attempted to link to aforementioned div-id section from the intellectual development page where it says "language", but instead simply linked to enrichment programs page (fix later)
 
+9.25 | 11:10am (Luke)
+- Removed slideshow parent reviews from additional pages
+- Added footer back to homepage
+- Removed hours of operation- could be confusing to those looking for class schedules and force bad paths
+- Adjusted sidebar on About page
+- Removed sidebar from tuition and parent handbook pages
