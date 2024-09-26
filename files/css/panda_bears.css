@@ -81,3 +81,22 @@ main li {
 #class-schedule td {
     border: 1px solid #ddd;
 }
+.page-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.widget-area.stick.secondary {
+    width: 25%; /* Sidebar (teachers) takes 25% of the width */
+    display: block;
+    flex-direction: column;
+    gap: 2em;
+    position: sticky;
+    top: 100px;
+    /*SCROLLABLE ASIDE CSS*/
+    /*
+    height: 600px;
+    overflow-y: auto;
+    display: block;
+    */
+}

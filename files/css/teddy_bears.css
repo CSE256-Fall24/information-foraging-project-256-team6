@@ -95,7 +95,7 @@ main li {
 
 .widget-area.stick.secondary {
     width: 25%; /* Sidebar (teachers) takes 25% of the width */
-    display: flex;
+    display: block;
     flex-direction: column;
     gap: 2em;
     position: sticky;
@@ -114,51 +114,3 @@ main li {
     overflow-y: auto;
 }*/
 
-/* Individual staff member layout remains the same */
-.staff-qualifications {
-    font-size: 1.2rem;
-    line-height: 1.2;
-    font-weight: 100;
-    word-wrap: normal;
-}
-
-.staff-details {
-    font-size: 1.0rem;
-    line-height: 1.0;
-    font-weight: 100;
-    word-wrap: normal;
-}
-
-.staff-email {
-    color: #a51417;
-    text-decoration: underline solid #a51417;
-}
-
-.individual-staff-member {
-    padding: 1.5em;
-    border-width: 1px;
-    border-color: #eee;
-    border-style: solid;
-    width: 100%;
-    margin-bottom: 1.5em;
-}
-
-.individual-staff-member,
-.individual-staff-member-inner-div {
-    overflow: auto;
-    clear: both;
-}
-
-.individual-staff-member-inner-div img {
-    float: center;
-    margin-right: 2em;
-}
-
-.individual-staff-member-data {
-    float: center;
-    overflow-wrap: normal;
-}
-
-#teddy-overview {
-    font-size: 20px;
-}
