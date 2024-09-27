@@ -81,6 +81,12 @@ main li {
 #class-schedule td {
     border: 1px solid #ddd;
 }
+.content-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
 .page-content {
     display: flex;
     justify-content: space-between;
@@ -92,7 +98,7 @@ main li {
     flex-direction: column;
     gap: 2em;
     position: sticky;
-    top: 100px;
+    top: 0;
     /*SCROLLABLE ASIDE CSS*/
     /*
     height: 600px;
