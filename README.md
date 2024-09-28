@@ -8,6 +8,9 @@ Changes
 - Removed extra images from curriculum overview pages, put them on bear cub and fixed Bear Cub Photos label on page bear_cubs_photos.html- Jonas
 - Added Bear Tracks link to Classrooms page - Jonas
 - Change link colors to make links visible on Classrooms page. - Jonas
+- Added Curriculum Flexibility page - Jonas
+- Added Home & School Communication page - Jonas
+- Change H1-4 to be bold to medium to increase hierarchy in common.css - Jonas
 - Sticky navbar added 
 - Hero images removed on landing pages for now (just commented out- some are just placeholder divs called "image container" and some are actual image tags)
 
