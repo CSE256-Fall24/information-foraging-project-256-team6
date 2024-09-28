@@ -47,3 +47,9 @@ Classrooms Changes:
 - Adjusted sidebar on About page
 - Removed sidebar from tuition and parent handbook pages
 - Tuition moved back under About instead of parent resources
+
+Livia
+- Added Apply for the Nursery School back to the footer
+- Fixed footer entirely changed sizing and spacing and made it look cleaner
+- Changed dropdown to Home and School Communication instead of home-school communication
+- Fixed styling of about page so picture is in line and not messing with text
