@@ -67,3 +67,4 @@ Livia
 - Renamed combined page to "communication"
 - Added direct link to enrichment programs on Teddy Bears page
 - Added "(Art, Music, Spanish, Science)" to hyperlink text instead of only having the hyperlink say "Enrichment Programs"
+- Reformatted "Enrichment Programs (Art, Music, Spanish, Science)" header (h3 + hyperlink) by adding div tag around it because there was no whitespace between "Enrichment Programs (Art, Music, Spanish, Science)" and "Additional Information"
