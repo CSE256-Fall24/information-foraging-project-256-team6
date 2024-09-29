@@ -62,3 +62,4 @@ Livia
 - Added more info from parent handbook into parent-staff communication section in communication.html or "orientation, assessments, and communication" page
 - Changed menu name from "orientation, assessments, and communication" to "orientation, communication, and assessments" to match the order of sections on the page
 - Updated page title (within <head> tag) and header (displayed on website) in communication.html
+- Made it easier to find science curriculum
