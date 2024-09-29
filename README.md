@@ -42,7 +42,7 @@ Classrooms Changes:
 - Wrote CSS for th and table displaying hours info
 - Added hours of operation to side navbar on about, parent handbook, and staff pages
 - Created new div tag and added ID to it for Spanish section on enrichments program page
-- Attempted to link to aforementioned div-id section from the intellectual development page where it says "language", but instead simply linked to enrichment programs page (fix later)
+- Attempted to link to aforementioned div-id section from the intellectual development page where it says "language", but instead simply linked to enrichment programs page due to the #section-id suffix in link leading to plain-text webpage
 
 9.25 | 11:10am (Luke)
 - Removed slideshow parent reviews from additional pages
