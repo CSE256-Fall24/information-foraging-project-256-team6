@@ -84,3 +84,4 @@ Livia
 - Moved enrichment_programs class CSS from teddy_bears.css to common.css to allow the Panda Bears and other classroom pages to access it
 - Added link to enrichments on Bear Cubs page
 - Added link to enrichments on Big Bears page
+- Added link to enrichments on Sun Bears page
