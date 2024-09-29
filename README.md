@@ -63,3 +63,4 @@ Livia
 - Changed menu name from "orientation, assessments, and communication" to "orientation, communication, and assessments" to match the order of sections on the page
 - Updated page title (within <head> tag) and header (displayed on website) in communication.html
 - Made it easier to find science curriculum
+- Started to split up ""Orientation, Communication, and Assessments" into 3 separate pages
