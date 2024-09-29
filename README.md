@@ -57,3 +57,8 @@ Livia
 - Fixed footer entirely changed sizing and spacing and made it look cleaner
 - Changed dropdown to Home and School Communication instead of home-school communication
 - Fixed styling of about page so picture is in line and not messing with text
+
+9.29 | 8:06am (Jalen)
+- Added more info from parent handbook into parent-staff communication section in communication.html or "orientation, assessments, and communication" page
+- Changed menu name from "orientation, assessments, and communication" to "orientation, communication, and assessments" to match the order of section on the page
+- Updated page title (within <head> tag) and header (displayed on website) in communication.html
