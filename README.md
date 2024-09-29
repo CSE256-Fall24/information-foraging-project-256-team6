@@ -81,3 +81,4 @@ Livia
 
 9.29 | 3:11pm (Jalen)
 - Added link to enrichments on Panda Bears page
+- Moved enrichment_programs class CSS from teddy_bears.css to common.css to allow the Panda Bears and other classroom pages to access it
