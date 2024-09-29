@@ -36,7 +36,7 @@ Classrooms Changes:
 - Goal of above minor changes: make Teddy Bear page the "model" page that once we all agree is designed well we can replicate on all other classroom pages
 - Announcements column on homepage made scrollable with a max height
 
-9.25 | 12:43apm 
+9.25 | 12:43am (Jalen)
 - Created new 'hours of operation' page under 'about'
 - Added as sub-menu item in header modular component
 - Wrote CSS for th and table displaying hours info
