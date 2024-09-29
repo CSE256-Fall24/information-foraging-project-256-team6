@@ -78,3 +78,6 @@ Livia
 - Added assessments info onto that page
 - Added them to menu under parent resources
 - Renamed existing combined submenu item to "Communication"
+
+9.29 | 3:11pm (Jalen)
+- Added link to enrichments on Panda Bears page
