@@ -70,3 +70,11 @@ Livia
 - Reformatted "Enrichment Programs (Art, Music, Spanish, Science)" header (h3 + hyperlink) by adding div tag around it because there was no whitespace between "Enrichment Programs (Art, Music, Spanish, Science)" and "Additional Information"
 - Created/added new "enrichment_programs" class to div tag
 - Added CSS to properly format h3 text in the enrichment_programs class (set margin-bottom attribute to 1em)
+
+9.29 | 2:02pm (Jalen)
+- Created orientation page
+- Added orientation info onto that page
+- Created assessments page
+- Added assessments info onto that page
+- Added them to menu under parent resources
+- Renamed existing combined submenu item to "Communication"
