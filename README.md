@@ -66,3 +66,4 @@ Livia
 - Started to split up "Orientation, Communication, and Assessments" into 3 separate pages
 - Renamed combined page to "communication"
 - Added direct link to enrichment programs on Teddy Bears page
+- Added "(Art, Music, Spanish, Science)" to hyperlink text instead of only having the hyperlink say "Enrichment Programs"
