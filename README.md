@@ -85,3 +85,14 @@ Livia
 - Added link to enrichments on Bear Cubs page
 - Added link to enrichments on Big Bears page
 - Added link to enrichments on Sun Bears page
+
+Round 2 
+10.12 | 11:06pm (Jonas)
+- Moved all Parent Teacher Conferences content to communication.html page - done
+- Added safety net to the individualized support page - done
+- Added safety net from big_bears on classroom page to enrichment programs. - done
+- Enrichment programs improved typographical hierarchy by bolding titles - done
+- Changed order of drop down items to improve enrichment programs scent under curriculum overview - done
+- Changed order of items in enrichment programs bumped the Science and Spanish sections to the top - done
+- Fixed forms page layout increasing the scent of forms to be filled out after acceptance. - done
+- Added decsription for "News" and "Photos" on classroom pages - done
