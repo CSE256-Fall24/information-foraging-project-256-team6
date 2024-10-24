@@ -96,3 +96,11 @@ Round 2
 - Changed order of items in enrichment programs bumped the Science and Spanish sections to the top - done
 - Fixed forms page layout increasing the scent of forms to be filled out after acceptance. - done
 - Added decsription for "News" and "Photos" on classroom pages - done
+
+Round 3 
+10.24 | 12:06PM (Jonas)
+- Identified the problem for teacher tenure task
+    - We don't have a single page with both bear cubs teachers tenure available in view
+- Add teachers tenure to the classroom pages as it follows our path we submitted better
+- Got rid of staff sidebar on staff.html
+- Added safety net to staff page to redirect users to classrooms page.
