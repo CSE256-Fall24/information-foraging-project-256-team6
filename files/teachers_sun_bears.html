@@ -6,6 +6,7 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
   <link rel="stylesheet" type="text/css" href="files/css/staff.css">
   <title>Staff | Nursery School | Washington University in St. Louis</title>
 </head>
@@ -14,37 +15,25 @@
   <ts-load data-name="header"></ts-load>
   <div id="page-content">
     <main>
-      <h1>Administration</h1>
-      <p>To view specific teachers navigate to <a href="files/classrooms.html">Classroom Overview</a>,
-      and select the proper classroom to view the teachers.</p>
-      <!--<h2><a href="files/teachers.html">Our Teachers</a></h2>-->
+
+      <h1>Sun Bears Teachers</h1>
       <div class="individual-staff-member">
         <div class="individual-staff-member-inner-div">
           <img width="200" height="275" alt=""
-            src="https://nurseryschool.wustl.edu/files/2018/04/nikki.scheele-v010v2-280x386.jpg"
+            src="https://nurseryschool.wustl.edu/files/2018/04/revcolleen-e1525118914596-1zp2mgx-280x386.jpg"
             class="people-list-image attachment-washu-ppi-headshot size-washu-ppi-headshot wp-post-image">
           <div class="individual-staff-member-data">
             <h3>
-              <a href="files/nikki_scheele.html">Nikki Scheele
+              <a href="files/colleen_corbett.html">Colleen Corbett (Sun Bears, Bear Tracks)
               </a>
             </h3>
-            <p class="staff-qualifications">Director, BS Kinesiology, MSW</p>
+            <p class="staff-qualifications">
+              AB English, Minor in Spanish, MAEd Counseling
+            </p>
+            <p class="staff-qualifications">7 Year Tenure</p>
           </div>
         </div>
       </div>
-      <div class="individual-staff-member">
-        <div class="individual-staff-member-inner-div">
-          <img width="200" height="275" alt="" src="https://nurseryschool.wustl.edu/files/2018/02/amber-1-280x386.jpg"
-            class="people-list-image attachment-washu-ppi-headshot size-washu-ppi-headshot wp-post-image">
-          <div class="individual-staff-member-data">
-            <h3>
-              <a href="files/amber_ott.html">Amber Ott
-              </a>
-            </h3>
-          </div>
-        </div>
-      </div>
-      
     </main>
     <!--
     <div class="widget-area stick secondary" role="complementary">
@@ -76,7 +65,29 @@
     -->
   </div>
   <ts-load data-name="footer"></ts-load>
-  <script src="scripts/js/app.js"></script>
+  <!-- <script src="scripts/js/app.js"></script>
+  <script>
+    // Function to filter teachers by classroom based on the names inside the hyperlinks
+    $('#classroom-filter').on('change', function () {
+      var selectedClassroom = $(this).val().toLowerCase();  // Get the selected classroom and convert it to lowercase for case-insensitive comparison
+
+      // Loop through each staff member and check the classroom names
+      $('.individual-staff-member').each(function () {
+        var teacherClasses = $(this).find('h3 a').text().toLowerCase(); // Get the text inside the anchor tag and convert to lowercase
+
+        // Show the staff member if "all" is selected or if the selected classroom matches the text
+        if (selectedClassroom === "all" || teacherClasses.includes(selectedClassroom)) {
+          $(this).show(); // Show the staff member
+        } else {
+          $(this).hide(); // Hide the staff member
+        }
+      });
+    });
+
+    // Trigger filter on page load to show all teachers initially
+    $('#classroom-filter').trigger('change');
+  </script> -->
+
 </body>
 
 </html>
